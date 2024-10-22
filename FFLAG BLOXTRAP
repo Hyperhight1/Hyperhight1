@@ -1,0 +1,18 @@
+"DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
+"DFStringHttpPointsReporterUrl": "null",
+"FIntRenderShadowIntensity": "0",
+"FFlagDebugCrashReports": "False",
+"FStringCoreScriptBacktraceErrorUploadToken": "null",
+"FFlagDebugDisplayFPS": "False",
+"DFFlagEnableLightstepReporting2": "False",
+"DFStringAltHttpPointsReporterUrl": "null",
+"DFStringLightstepHTTPTransportUrlPath": "null",
+"DFIntRenderingThrottleDelayInMS": "1",
+"DFIntRunningBaseOrientationP": "115",
+"FFlagHandleAltEnterFullscreenManually": "False",
+"DFFlagDebugRenderForceTechnologyVoxel": "True",
+"DFFlagBaseNetworkMetrics": "False",
+"FFlagDisablePostFx": "True",
+"FIntTerrainArraySliceSize": "0",
+"FIntDebugForceMSAASamples": "1"
+}
